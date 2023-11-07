@@ -29,6 +29,8 @@ export default function Home() {
           containerClasses="hidden max-md:flex"
         />
       </div>
+
+      <HomeFilters />
     </>
   );
 }
